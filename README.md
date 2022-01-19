@@ -12,7 +12,6 @@ News Bytes is a news webapp where users can update themselves with the latest st
 
 ⚛️ [**REACTJS**](https://reactjs.org/)<br><br>
 ![xyz](/public/bootstrap.jpg)&nbsp;[**BOOTSTRAP**](https://getbootstrap.com/)<br><br>
-![xyz](/public/netlify.jpg)&ensp;[**NETLIFY**](https://www.netlify.com/)<br>
 
 ---
 
